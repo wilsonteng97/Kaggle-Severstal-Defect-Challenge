@@ -27,7 +27,7 @@ Name the dataset Stage1.
 **Output:**                      
 	`train_missing_count.csv`                             
 
-## 3) **Group 28 Stage 3 (EDA)**                             
+## 3) **Group 28 Stage 3 (EDA to find optimal threshold for Stage 4)**                             
 This notebook performs an EDA to determine the optimal threshold of allMissing score to split the dataset into two groups with the highest percentage of defect images and non defect images respectively.                    
                  
 To run this notebook, two .csv files from Stage 1 and 2 is required:
