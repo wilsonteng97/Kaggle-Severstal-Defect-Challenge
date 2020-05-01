@@ -64,6 +64,6 @@ To run this code you would need to upload the .csv files into the notebook's wor
 	`submission.csv`
 
 
-## Results:
+## Results (0.88536 on Private LeaderBoard):
 ![Submission Results](/images/results.png)
 
