@@ -63,7 +63,3 @@ To run this code you would need to upload the .csv files into the notebook's wor
 **Output:**                      
 	`submission.csv`
 
-
-## Results:
-![Submission Results](/images/results.png)
-
